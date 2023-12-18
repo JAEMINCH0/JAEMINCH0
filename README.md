@@ -25,9 +25,3 @@
 ## 📈 Github 통계
 
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-## 🏆 Highlights
-
-- 🏢 **Company**: KEPCO ![KEPCO](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fkepco-korea-electric-power-corporation-logo-vector-svg-pdf-ai-eps-cdr-free-download-10946.html&psig=AOvVaw1JPYMm4hBF5b8qHlJVKPIl&ust=1702949162034000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODNzZDql4MDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fkepco-korea-electric-power-corporation-logo-vector-svg-pdf-ai-eps-cdr-free-download-10946.html&psig=AOvVaw1JPYMm4hBF5b8qHlJVKPIl&ust=1702949162034000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODNzZDql4MDFQAAAAAdAAAAABAE)
-- 📍 **Location**: Daejeon, Republic of Korea
-- 📫 **Email**: your-email@example.com
