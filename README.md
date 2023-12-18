@@ -1,16 +1,28 @@
-### Hey 👋
+# Welcome! My name is Jaemin Cho 😎
 
-<!--
-**JAEMINCH0/JAEMINCH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aemin-cho-213432255/)](https://www.linkedin.com/in/aemin-cho-213432255/)
 
-Here are some ideas to get you started:
+## 🧑‍💻 ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Current: KEPCO Research Institute, Digital Solution, AI Lab ⚡️ Hyper Realistic Safety Education Training System Developer 🤖🦾🦿
+- 🌱 Learning: Pose Estimation through skeleton joint and 3D Human motion
+- 📫 Email: georgemin@naver.com
+- 😄 Hobby: Travel 🌎, Tennis 🎾, Reading 📖
+
+## 💼 Stack
+
+- 🐍 DL: Tensorflow, Keras, PyTorch, OpenCV, NLTK, Spacy
+- 🌐 Backend: FastAPI, Node.js
+- 🕹️ Hardware: C, C++
+- 🛢 Database: MySql
+
+
+## 📚 Working on...
+
+- Pose Estimation with motion sensor and RGB camera
+
+## 📈 Github 통계
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+
