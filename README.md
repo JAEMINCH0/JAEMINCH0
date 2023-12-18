@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 ME
 
-- 🏢 Current: KEPCO Research Institute, Digital Solution, AI Lab ⚡️ Hyper Realistic Safety Education Training System Developer 🤖🦾🦿
+- 🏢 Current: ⚡️ KEPCO Research Institute, Digital Solution, AI Lab  Hyper Realistic Safety Education Training System Developer
 - 🌱 Learning: Pose Estimation through skeleton joint and 3D Human motion
 - 😄 Hobby: Travel 🌎, Tennis 🎾, Reading 📖
 
