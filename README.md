@@ -20,8 +20,3 @@
 ## 📚 Working on...
 
 - Pose Estimation with motion sensor and RGB camera
-
-
-## 📈 Github 통계
-
-![Your github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
